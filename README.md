@@ -1,2 +1,2 @@
-# sql-challenge
-that pgadmin biz
+# SQL
+Utilizing PGADMIN to filter, extract, and interpret employee data.
